@@ -1,0 +1,4 @@
+To Do:
+1. Penambahan database
+2. Buat nama rak bu
+3. managemen tabel
